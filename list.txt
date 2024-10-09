@@ -3,3 +3,6 @@ This is the first text file containing things I like:
 + Water
 + Sleeping
 + Mangoes
+
+Some things I don't like:
++ Waking up early
